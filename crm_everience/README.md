@@ -120,7 +120,7 @@ if (user.role === 'commerciale') {
 
 ### **Sviluppo Backend**
 1. **Database Design**
-   - Progettazione schema 24+ tabelle
+   - Progettazione schema tabelle
    - Relazioni tra lead, opportunità, richieste, contratti
    - Ottimizzazione performance query
 
