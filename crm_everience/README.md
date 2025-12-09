@@ -1,167 +1,167 @@
-# Everience CRM - Customer Relationship Management System
+# Everience CRM - Sistema di Gestione Customer Relationship
 
-## 🎯 Project Introduction
+## 🎯 Introduzione Progetto
 
-**Everience CRM** is a Customer Relationship Management system developed to digitize and optimize Everience's commercial processes. The platform manages the entire sales funnel, from initial contact (lead) to contract signing, with a differentiated role system for various company departments.
+**Everience CRM** è un sistema di Customer Relationship Management sviluppato per digitalizzare e ottimizzare i processi commerciali di Everience. La piattaforma gestisce l'intero funnel di vendita, dal primo contatto (lead) fino alla stipula del contratto, con un sistema di ruoli differenziati per i vari dipartimenti aziendali.
 
-### **Problem Solved**
-Before CRM implementation, Everience managed commercial processes through:
-- Dispersed Excel spreadsheets
-- Untracked emails
-- Manual cost calculation processes (PNL)
-- Lack of visibility on deal status
-- Difficulty in inter-department collaboration
+### **Problema Risolto**
+Prima dell'implementazione del CRM, Everience gestiva i processi commerciali tramite:
+- Spreadsheet Excel dispersi
+- Email non tracciate
+- Processi manuali per il calcolo dei costi (PNL)
+- Mancanza di visibilità sullo stato delle trattative
+- Difficoltà nella collaborazione tra reparti
 
-### **Implemented Solution**
-Centralized system that automates:
-- **Sales workflow**: Lead → Opportunity → Request → Contract
-- **Economic calculations**: Automated PNL (Profit & Loss)
-- **Role management**: Differentiated permissions for 5 user types
-- **Client directory**: Centralized contact database
-- **Reporting**: Real-time dashboard
+### **Soluzione Implementata**
+Sistema centralizzato che automatizza:
+- **Workflow di vendita**: Lead → Opportunità → Richiesta → Contratto
+- **Calcoli economici**: PNL (Profit & Loss) automatizzato
+- **Gestione ruoli**: Permessi differenziati per 5 tipologie di utenti
+- **Rubrica clienti**: Database centralizzato contatti
+- **Reportistica**: Dashboard in tempo reale
 
-### **End Users**
-- **Sales Team**: Lead and opportunity management
-- **Service Managers**: Request and resource management
-- **Recruitment**: Candidate and pipeline management
-- **Marketing**: Data analysis and campaigns
-- **Administrators**: System and user management
+### **Utenti Finali**
+- **Commerciali**: Gestione lead e opportunità
+- **Service Manager**: Gestione richieste e risorse
+- **Recruitment**: Gestione candidati e pipe
+- **Marketing**: Analisi dati e campagne
+- **Amministratori**: Gestione sistema e utenti
 
-## 🛠️ Technologies Used
+## 🛠️ Tecnologie Utilizzate
 
 ### **Frontend**
-- **React 18** with TypeScript
-- **Material-UI** for UI components
-- **React Router** for navigation
-- **Axios** for API calls
-- **React Hook Form** for form management
-- **Chart.js** for data visualization
+- **React 18** con TypeScript
+- **Material-UI** per componenti UI
+- **React Router** per navigazione
+- **Axios** per chiamate API
+- **React Hook Form** per gestione form
+- **Chart.js** per visualizzazione dati
 
 ### **Backend**
-- **Node.js** with Express
-- **Firebase Authentication** for user management
-- **Firebase Cloud Functions** for serverless backend
-- **JWT** for token-based authentication
-- **Bcrypt** for password hashing
+- **Node.js** con Express
+- **Firebase Authentication** per gestione utenti
+- **Firebase Cloud Functions** per backend serverless
+- **JWT** per autenticazione token-based
+- **Bcrypt** per hashing password
 
 ### **Database**
-- **Microsoft SQL Server** relational database
-- **T-SQL** for stored procedures and queries
-- **SSMS** (SQL Server Management Studio) for management
+- **Microsoft SQL Server** database relazionale
+- **T-SQL** per stored procedures e query
+- **SSMS** (SQL Server Management Studio) per gestione
 
-### **Infrastructure & DevOps**
-- **Firebase Hosting** for frontend deployment
-- **Git** for version control
-- **GitHub** for repository and collaboration
-- **Postman** for API testing
-- **Figma** for UI/UX design
+### **Infrastruttura & DevOps**
+- **Firebase Hosting** per deployment frontend
+- **Git** per version control
+- **GitHub** per repository e collaboration
+- **Postman** per testing API
+- **Figma** per design UI/UX
 
-### **Security**
-- Domain-specific authentication (`@everience.com`)
+### **Sicurezza**
+- Autenticazione dominio-specifico (`@everience.com`)
 - Role-Based Access Control (RBAC)
-- Server-side input validation
-- HTTPS and SSL/TLS encryption
-- Daily automatic backups
+- Validazione input lato server
+- HTTPS e SSL/TLS encryption
+- Backup automatici giornalieri
 
-## 👥 Development Team
+## 👥 Team di Sviluppo
 
-### **3-Person Team**
+### **Team di 3 Persone**
 
-#### **1. [Your Name] - Backend Developer & Frontend Support**
-**Role**: Backend Developer with Frontend Support  
-**Responsibilities**:
-- ✅ **Database Architecture**: Design of 24+ SQL Server table schema
-- ✅ **API Development**: Development of RESTful APIs with Node.js/Express
-- ✅ **Business Logic**: Implementation of Lead→Opportunity→Request→Contract workflow
-- ✅ **PNL System**: Development of automatic cost and margin calculation algorithms
-- ✅ **Authentication**: Firebase Auth implementation with roles
-- ✅ **Security**: Input validation, data sanitization, RBAC
+#### **1. [Il Tuo Nome] - Backend Developer & Frontend Support**
+**Ruolo**: Sviluppatrice Backend con supporto Frontend  
+**Responsabilità**:
+- ✅ **Architettura Database**: Progettazione schema 24+ tabelle SQL Server
+- ✅ **API Development**: Sviluppo RESTful APIs con Node.js/Express
+- ✅ **Business Logic**: Implementazione workflow Lead→Opportunità→Richiesta→Contratto
+- ✅ **Sistema PNL**: Sviluppo algoritmi calcolo costi e margini automatici
+- ✅ **Autenticazione**: Implementazione Firebase Auth con ruoli
+- ✅ **Sicurezza**: Validazione input, sanitizzazione dati, RBAC
 - ✅ **Performance Optimization**: Query optimization, indexing, caching
-- 🔧 **Frontend Support**: UI bug resolution, API integration, component refactoring
+- 🔧 **Frontend Support**: Risoluzione bug UI, integrazione API, refactoring componenti
 
-**Demonstrated Skills**:
-- Database design and normalization
-- REST API development
-- Complex business logic
+**Competenze dimostrate**:
+- Database design e normalization
+- API REST development
+- Business logic complessa
 - Security implementation
-- Technical problem solving
+- Problem solving tecnico
 
-#### **2. [Colleague 1 Name] - Frontend Developer**
-**Role**: Main Frontend Developer  
-**Responsibilities**:
+#### **2. [Nome Collega 1] - Frontend Developer**
+**Ruolo**: Sviluppatore Frontend principale  
+**Responsabilità**:
 - UI/UX design implementation
-- React component development
+- Component development in React
 - State management
 - Responsive design
 - User interface testing
 
-#### **3. [Colleague 2 Name] - Full Stack Developer**
-**Role**: Full stack support  
-**Responsibilities**:
-- Both frontend and backend feature development
+#### **3. [Nome Collega 2] - Full Stack Developer**
+**Ruolo**: Supporto full stack  
+**Responsabilità**:
+- Feature development sia frontend che backend
 - Integration testing
 - Documentation
 - Bug fixing
 
-### **Collaboration Mode**
+### **Modalità di Collaborazione**
 ```
-Weekly:
-├── Monday: Sprint Planning
-├── Daily: Standup meeting (15 min)
-├── Wednesday: Code review session
-└── Friday: Sprint Review & Retrospective
+Settimanale:
+├── Lunedì: Sprint Planning
+├── Giornaliero: Standup meeting (15 min)
+├── Mercoledì: Code review session
+└── Venerdì: Sprint Review & Retrospective
 
-Tools:
-├── Communication: Slack + WhatsApp group
+Strumenti:
+├── Comunicazione: Slack + WhatsApp group
 ├── Project Management: Trello board
 ├── Code Repository: GitHub
-└── Documentation: Google Docs + Confluence
+└── Documentazione: Google Docs + Confluence
 ```
 
-## 📁 Project Structure
+## 📁 Struttura Progetto
 
 ### **Repository Organization**
 ```
 everience-crm/
-├── frontend/                 # React application
+├── frontend/                 # Applicazione React
 │   ├── public/
 │   │   ├── index.html
 │   │   └── manifest.json
 │   └── src/
-│       ├── components/       # React components
+│       ├── components/       # Componenti React
 │       │   ├── auth/         # Login/Register components
-│       │   ├── commercial/   # Sales area modules
+│       │   ├── commerciale/  # Moduli area commerciale
 │       │   │   ├── leads/
 │       │   │   ├── opportunities/
 │       │   │   ├── requests/
 │       │   │   └── contracts/
-│       │   ├── pnl/          # PNL calculation components
-│       │   ├── contacts/     # Contact directory
-│       │   └── common/       # Shared components
-│       ├── pages/            # Application pages
+│       │   ├── pnl/          # Componenti calcolo PNL
+│       │   ├── contacts/     # Rubrica contatti
+│       │   └── common/       # Componenti condivisi
+│       ├── pages/            # Pagine dell'applicazione
 │       │   ├── Dashboard.jsx
 │       │   ├── Login.jsx
 │       │   ├── LeadsList.jsx
 │       │   └── ...
-│       ├── services/         # Services and API calls
-│       │   ├── api.js        # Axios configuration
-│       │   ├── auth.js       # Authentication services
-│       │   ├── leads.js      # Leads API calls
+│       ├── services/         # Servizi e API calls
+│       │   ├── api.js        # Configurazione axios
+│       │   ├── auth.js       # Servizi autenticazione
+│       │   ├── leads.js      # API calls per leads
 │       │   └── ...
 │       ├── utils/            # Utility functions
-│       │   ├── validators.js # Form validation
-│       │   ├── calculations.js # PNL calculations
-│       │   └── helpers.js    # Helper functions
+│       │   ├── validators.js # Validazione form
+│       │   ├── calculations.js # Calcoli PNL
+│       │   └── helpers.js    # Funzioni helper
 │       ├── context/          # React Context
 │       │   └── AuthContext.jsx
 │       ├── hooks/            # Custom hooks
 │       │   └── useAuth.js
-│       ├── styles/           # CSS/SCSS styles
+│       ├── styles/           # Stili CSS/SCSS
 │       │   ├── main.scss
 │       │   └── variables.scss
-│       └── App.jsx           # Main component
+│       └── App.jsx           # Componente principale
 │
-├── backend/                  # Node.js application
+├── backend/                  # Applicazione Node.js
 │   ├── src/
 │   │   ├── controllers/      # Business logic
 │   │   │   ├── authController.js
@@ -207,11 +207,11 @@ everience-crm/
 │   ├── hosting/              # Firebase Hosting config
 │   └── firebase.json         # Firebase config file
 │
-├── docs/                     # Documentation
+├── docs/                     # Documentazione
 │   ├── api/                  # API documentation
 │   ├── database/             # DB schema documentation
-│   ├── user-guides/          # User guides
-│   └── technical/            # Technical documentation
+│   ├── user-guides/          # Guide utente
+│   └── technical/            # Documentazione tecnica
 │
 └── scripts/                  # Utility scripts
     ├── deploy.sh             # Deployment script
@@ -219,35 +219,35 @@ everience-crm/
     └── setup-dev.sh          # Development setup
 ```
 
-### **Main Database Architecture**
+### **Architettura Database Principale**
 ```
 LEADS (1) ──── (0..1) OPPORTUNITY (1) ──── (0..1) REQUEST (1) ──── (1) CLIENT_CONTRACT
    │                       │                         │
    └── (1) ── CLIENT       └── (1) ── SERVICE_MGR    └── (1) ── PNL (1..n)
 ```
 
-### **Key Components Developed by Me**
+### **Componenti Chiave da Me Sviluppati**
 
-#### **1. Authentication System**
+#### **1. Sistema Autenticazione**
 ```javascript
 // backend/src/controllers/authController.js
 class AuthController {
   async register(userData) {
-    // Email domain validation @everience.com
-    // Firebase user creation
-    // Role saving in SQL database
-    // Confirmation email sending
+    // Validazione dominio email @everience.com
+    // Creazione utente Firebase
+    // Salvataggio ruolo in database SQL
+    // Invio email conferma
   }
   
   async login(credentials) {
-    // Firebase credential verification
-    // JWT token generation
-    // Role permission loading
+    // Verifica credenziali Firebase
+    // Generazione JWT token
+    // Caricamento permessi ruolo
   }
 }
 ```
 
-#### **2. PNL Business Logic**
+#### **2. Business Logic PNL**
 ```javascript
 // backend/src/controllers/pnlController.js
 class PNLController {
@@ -274,33 +274,33 @@ class PNLController {
 }
 ```
 
-#### **3. Lead Management Workflow**
+#### **3. Workflow Lead Management**
 ```javascript
 // backend/src/controllers/leadsController.js
 class LeadsController {
   async createLead(leadData, userId) {
-    // Generate unique_speaking_code: DIR-12-05-23-0001
-    // Mandatory field validation
-    // Owner assignment
-    // Database saving
+    // Generazione unique_speaking_code: DIR-12-05-23-0001
+    // Validazione campi obbligatori
+    // Assegnazione owner
+    // Salvataggio in database
   }
   
   async convertToOpportunity(leadId, opportunityData) {
-    // Lead data retrieval
-    // Linked opportunity creation
-    // Lead status update (converted = 1)
-    // Service manager assignment
+    // Recupero dati lead
+    // Creazione opportunità collegata
+    // Aggiornamento stato lead (converted = 1)
+    // Assegnazione service manager
   }
 }
 ```
 
-### **Development Environment Setup**
+### **Configurazione Ambiente di Sviluppo**
 
 #### **Frontend Setup**
 ```bash
 cd frontend
 npm install
-# Configure .env with Firebase variables
+# Configura .env con variabili Firebase
 npm start
 ```
 
@@ -308,7 +308,7 @@ npm start
 ```bash
 cd backend
 npm install
-# Configure .env with:
+# Configura .env con:
 # - SQL Server connection string
 # - Firebase admin credentials
 # - JWT secret
@@ -332,56 +332,56 @@ const sqlConfig = {
 
 ### **Deployment Pipeline**
 ```
-Local Development → Code Review → Testing → Staging → Production
+Sviluppo Locale → Code Review → Testing → Staging → Produzione
        ↓              ↓           ↓         ↓         ↓
    Git Branch   Pull Request   Jest Tests  Firebase  Firebase
      feature/       ↑           Cypress     Hosting    Hosting
                     │                          │         │
-               Team Lead                  Staging    Production
-               Approval                  Environment  Environment
+               Approvazione                Staging    Production
+                 Team Lead                Environment  Environment
 ```
 
-## 🎓 My Specific Contribution
+## 🎓 Il Mio Contributo Specifico
 
-### **Backend Development (80% of my time)**
+### **Backend Development (80% del mio tempo)**
 1. **Database Design & Implementation**
-   - Design of 24 relational tables
-   - Query optimization with indexes
-   - Stored procedures for complex operations
-   - Data migration from legacy systems
+   - Progettazione 24 tabelle relazionali
+   - Ottimizzazione query con indici
+   - Stored procedures per operazioni complesse
+   - Migrazione dati da sistemi legacy
 
 2. **API Development**
-   - 15+ RESTful endpoints
-   - Robust input validation
-   - Centralized error handling
-   - Rate limiting and security
+   - 15+ endpoint RESTful
+   - Validazione input robusta
+   - Error handling centralizzato
+   - Rate limiting e sicurezza
 
 3. **Business Logic**
-   - PNL calculation algorithms
+   - Algoritmi calcolo PNL
    - Workflow automations
-   - Integration with Firebase Auth
+   - Integration con Firebase Auth
    - Report generation
 
-### **Frontend Support (20% of my time)**
+### **Frontend Support (20% del mio tempo)**
 1. **Bug Fixing & Optimization**
-   - API integration issue resolution
-   - Component performance optimization
-   - Existing code refactoring
+   - Risoluzione problemi integrazione API
+   - Performance optimization componenti
+   - Refactoring codice esistente
 
 2. **Feature Implementation Support**
-   - Component architecture consulting
-   - Complex feature implementation support
-   - Code review and best practices
+   - Consulenza su architettura componenti
+   - Supporto implementazione features complesse
+   - Code review e best practices
 
-### **Achieved Results**
-- ✅ Fully functional system in production
-- ✅ 40% reduction in lead management time
-- ✅ 99.9% accuracy in PNL calculations
-- ✅ Training of 50+ users on the system
-- ✅ 100% legacy data migration completed
+### **Risultati Conseguiti**
+- ✅ Sistema completamente funzionante in produzione
+- ✅ Riduzione tempo gestione lead del 40%
+- ✅ Accuratezza calcoli PNL del 99.9%
+- ✅ Formazione 50+ utenti sul sistema
+- ✅ Migrazione 100% dati legacy completata
 
 ---
 
-*Project Documentation - Everience CRM*  
-*Development Team: [Your Name], [Colleague 1], [Colleague 2]*  
-*Period: January 2024 - June 2024*
+*Documentazione progetto - Everience CRM*  
+*Team di sviluppo: [Il Tuo Nome], [Collega 1], [Collega 2]*  
+*Periodo: Gennaio 2024 - Giugno 2024*
