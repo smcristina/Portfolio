@@ -2,7 +2,7 @@
 
 ## 🎯 Introduzione Progetto
 
-Everience CRM è un sistema di Customer Relationship Management sviluppato per digitalizzare e ottimizzare i processi commerciali di Everience. La piattaforma gestisce l'intero funnel di vendita, dal primo contatto (lead) fino alla stipula del contratto, con un sistema di ruoli differenziati per i vari dipartimenti aziendali.
+Everience CRM è un sistema di Customer Relationship Management sviluppato per digitalizzare e ottimizzare i processi commerciali di Everience. La piattaforma gestisce l'intero funnel di vendita, dal primo contatto (lead) fino alla stipula del contratto, con un sistema di ruoli differenziati per i vari dipartimenti aziendali. 
 
 ### **Funzionalità Principali**
 - **Gestione workflow completo**: Lead, Opportunità, Richieste, Contratti
