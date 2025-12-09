@@ -55,7 +55,7 @@ Everience CRM è un sistema di Customer Relationship Management sviluppato per d
 #### **2. Domenico - Backend Developer & Frontend Support**
 **Ruolo**: Sviluppatore Frontend principale
 
-#### **3. [Nome Collega 2] - Full Stack Developer**
+#### **3. Paula - Full Stack Developer**
 **Ruolo**: Supporto full stack
 
 ## 📁 Struttura Progetto
