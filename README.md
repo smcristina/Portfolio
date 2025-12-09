@@ -47,7 +47,7 @@ Neolaureata in Informatica con esperienza pratica nello sviluppo backend e nella
 
 ## 💼 Esperienze Professionali
 
-### **👩‍💻 Junior Developer @ Everience Spa** *(Feb 2025 - Presente)*
+### **👩‍💻 Junior Developer - Everience Spa** *(Feb 2025 - Presente)*
 **📍 Rho, Milano**
 
 #### 🔹 Sviluppo Soluzioni CRM Clienti
