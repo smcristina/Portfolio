@@ -1,6 +1,6 @@
 # github-portfolio
 # 👋 Ciao, sono Cristina Maricela Stanculea
-### 💻 Software Developer | 🚀 Backend & CRM 
+### 💻 Software Developer | 🚀 Backend & CRM & E-commerce | 📊 Project Management Trainee
 
 [![GitHub followers](https://img.shields.io/github/followers/tuonome?style=social)](https://github.com/smcristina)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://linkedin.com/in/maricela-cristina-stanculea-56248226b)
@@ -11,7 +11,9 @@
 
 ## 🚀 Chi Sono
 
-Neolaureata in Informatica con esperienza pratica nello sviluppo backend e nella gestione di database. Attualmente lavoro come **Junior Developer** presso Everience Spa, dove sviluppo soluzioni CRM personalizzate. Appassionata di architetture software, automazione processi e ottimizzazione delle performance.
+Laureata in Informatica con una solida base nello sviluppo backend e nella gestione di architetture complesse. 
+Attualmente impegnata presso **Wind Tre** nel team E-commerce, dove contribuisco allo sviluppo di soluzioni scalabili in Java/Spring Boot e approfondisco le metodologie di Project Management. 
+Appassionata di microservizi, ottimizzazione delle performance e dinamiche di business e-commerce.
 
 ---
 
@@ -46,6 +48,17 @@ Neolaureata in Informatica con esperienza pratica nello sviluppo backend e nella
 ---
 
 ## 💼 Esperienze Professionali
+
+### **👩‍💻 E-commerce Software Engineer & PM Trainee - Wind Tre (Feb 2025 - Presente)*
+**📍 Lotto, Milano**
+
+#### 🔹 Sviluppo Backend & Microservizi
+* Sviluppo e manutenzione della piattaforma e-commerce basata su architettura a microservizi.
+* Utilizzo di Java e Spring Boot per garantire scalabilità e performance elevate.
+
+#### 🔹 Project Management & Strategy
+* Analisi del ciclo di vita del software (SDLC) e Requirement Engineering.
+* Coordinamento tra dipartimenti tecnici e business per l'implementazione di nuove funzionalità.
 
 ### **👩‍💻 Junior Developer - Everience Spa** *(Feb 2025 - Presente)*
 **📍 Rho, Milano**
