@@ -49,7 +49,7 @@ Appassionata di microservizi, ottimizzazione delle performance e dinamiche di bu
 
 ## 💼 Esperienze Professionali
 
-### **👩‍💻 E-commerce Software Engineer & PM Trainee - Wind Tre (Feb 2025 - Presente)*
+### 👩‍💻 E-commerce Software Engineer & PM Trainee - Wind Tre (Feb 2025 - Presente)*
 **📍 Lotto, Milano**
 
 #### 🔹 Sviluppo Backend & Microservizi
